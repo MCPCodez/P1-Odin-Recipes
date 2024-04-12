@@ -2,3 +2,11 @@
     width: 350px;
     height: 350px;
 }
+.main{
+    display: grid;
+    grid-template-rows: 33%33%33%;
+    padding: 5px;
+}
+a{
+    padding-bottom: 5px;
+}
